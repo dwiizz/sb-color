@@ -1,0 +1,77 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+       "DATA": [
+    {
+      "title": "Kelinci",
+      "image": "file:///android_asset/1.png",
+      "mode":"1"
+    },
+    {
+      "title": "Burung Makau",
+      "image": "https://aliendro.id/demo/coloring_v2/2.png",
+      "mode":"1"
+    },
+    {
+      "title": "Kucing",
+      "image": "file:///android_asset/3.png",
+      "mode":"1"
+    },
+    {
+      "title": "Rubah Kutub",
+      "image": "https://aliendro.id/demo/coloring_v2/4.png",
+      "mode":"1"
+    },
+    {
+      "title": "Gajah",
+      "image": "file:///android_asset/5.jpg",
+      "mode":"2"
+    },
+    {
+      "title": "Kuda Poni",
+      "image": "https://aliendro.id/demo/coloring_v2/6.jpg",
+      "mode":"2"
+    },
+    {
+      "title": "Burung Hantu",
+      "image": "file:///android_asset/7.jpg",
+      "mode":"2"
+    },
+    {
+      "title": "Kura Kura",
+      "image": "https://aliendro.id/demo/coloring_v2/8.jpg",
+      "mode":"2"
+    },
+    {
+      "title": "Koala",
+      "image": "file:///android_asset/9.jpg",
+      "mode":"2"
+    },
+    {
+      "title": "Singa",
+      "image": "https://aliendro.id/demo/coloring_v2/10.png",
+      "mode":"1"
+    }
+  ]
+}
