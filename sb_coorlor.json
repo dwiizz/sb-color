@@ -25,7 +25,7 @@
        "DATA": [
     {
       "title": "Kelinci",
-      "image": "file:///android_asset/1.png",
+      "image": "https://raw.githubusercontent.com/dwiizz/sb-color/main/Profile-Mimi-Panda23.png",
       "mode":"1"
     },
     {
@@ -35,12 +35,12 @@
     },
     {
       "title": "Kucing",
-      "image": "file:///android_asset/3.png",
+      "image": "https://raw.githubusercontent.com/dwiizz/sb-color/main/Profile-Mimi-Panda3.png",
       "mode":"1"
     },
     {
       "title": "Rubah Kutub",
-      "image": "https://aliendro.id/demo/coloring_v2/4.png",
+      "image": "https://raw.githubusercontent.com/dwiizz/sb-color/main/Untitled-1.png",
       "mode":"1"
     },
     {
